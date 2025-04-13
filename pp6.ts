@@ -5,7 +5,7 @@ function checksign(n1 , n2){
         {
         message = "It is a positive number";
     }
-    else if(n1==0 && n2==0){
+    else if(n1 == 0 && n2 == 0){
         message = "zero"
     }
     else{
